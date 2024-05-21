@@ -71,12 +71,12 @@ header {
     align-items: center;
     margin-top: 100px;
     text-align: center;
-    margin-left: 3%;
+    margin-left: 4%;
 }
 
 .container .texto-um {
-    font-size: 16px;
-    margin-left: 50px;
+    font-size: 15px;
+    margin-left: 80px;
     font-size: 20px;
     font-family: "Alata", sans-serif;
     text-align: center;
@@ -87,7 +87,7 @@ header {
     display: flex;
     align-items: center;
     margin-bottom: 8%;
-    margin-left: 23%;
+    margin-left: 25%;
     text-align: center;
 }
 
@@ -104,6 +104,7 @@ header {
     width: 200px;
     height: 120px;
     padding-left: 80px;
+    margin-left: px;
 }
 
 .imgTamanho-dois {
